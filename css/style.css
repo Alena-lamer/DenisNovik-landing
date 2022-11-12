@@ -27,6 +27,10 @@ a {
 	color: #828282 !important;
 }
 
+.navbar {
+	background-color: #fff;
+}	
+
 .toggler-focused {
 	display: none;
 }
